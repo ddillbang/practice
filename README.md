@@ -1,2 +1,2 @@
 # practice
-practice git
+practice using git
